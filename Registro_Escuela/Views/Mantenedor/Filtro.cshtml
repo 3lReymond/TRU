@@ -1,0 +1,36 @@
+﻿
+@{
+    ViewData["Title"] = "Filtro";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Filtro</h1>
+<a asp-action="Listar" asp-controller="Mantenedor" class="btn btn-warning">Volver a la lista</a>
+<br />
+<table class="table table-bordered">
+	<thead>
+		<tr>
+			<th>ID_Usuario</th>
+			<th>Nombres</th>
+			<th>Apellidos</th>
+			<th>NombreTutor</th>
+			<th>NombreActividad</th>
+			<th>Fecha</th>
+			<th>Conducta</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model)
+		{
+			<tr>
+				<td>@item.ID_Usuario</td>
+				<td>@item.Nombres</td>
+				<td>@item.Apellidos</td>
+				<td>@item.NombreTutor</td>
+				<td>@item.NombreActividad</td>
+				<td>@item.Fecha</td>
+				<td>@item.Conducta</td>
+			</tr>
+		}
+	</tbody>
+</table>

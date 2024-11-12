@@ -1,0 +1,39 @@
+﻿
+@{
+    ViewData["Title"] = "VerActividades";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h1>Actividades</h1>
+<a asp-action="GuardarAct" asp-controller="Mantenedor" class="btn btn-success"><i class="bi bi-plus-circle"></i> Agregar Actividad</a>
+<a asp-action="Listar" asp-controller="Mantenedor" class="btn btn-warning">Volver a la lista</a>
+<br />
+<table class="table table-bordered">
+	<thead>
+		<tr>
+			<th>ID_Actividad</th>
+			<th>NombreActividad</th>
+			<th>Fecha</th>
+			<th>Conducta</th>
+			<th>ID_Usuario</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model)
+		{
+			<tr>
+				<td>@item.ID_Actividad</td>
+				<td>@item.NombreActividad</td>
+				<td>@item.Fecha</td>
+				<td>@item.Conducta</td>
+				<td>@item.ID_Usuario</td>
+				<td>
+					<a asp-action="EditarAct" asp-controller="Mantenedor" class="btn btn-primary btn-sm" asp-route-ID_Actividad="@item.ID_Actividad"><i class="bi bi-pencil-fill"></i> Editar</a>
+					<a asp-action="EliminarAct" asp-controller="Mantenedor" class="btn btn-danger btn-sm" asp-route-ID_Actividad="@item.ID_Actividad"><i class="bi bi-trash3"></i> Eliminar</a>
+				</td>
+
+			</tr>
+		}
+	</tbody>
+</table>
+
+

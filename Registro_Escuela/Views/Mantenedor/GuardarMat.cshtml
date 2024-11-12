@@ -1,0 +1,38 @@
+﻿@model Materiales
+
+@{
+    ViewData["Title"] = "MaterialesMat";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Registrar Materiales</h1>
+
+<form asp-action="GuardarMat" asp-controller="Mantenedor" method="post">
+    <div class="mb-3">
+        <label for="Nombre" class="form-label">Nombre del Material</label>
+        <input asp-for="Nombre" type="text" class="form-control" id="Nombre" placeholder="Nombre del Material">
+        <span asp-validation-for="Nombre" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label for="Stock" class="form-label">Cantidad en Stock</label>
+        <input asp-for="Stock" type="number" class="form-control" id="Stock" placeholder="Cantidad en Stock">
+        <span asp-validation-for="Stock" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label for="Estado" class="form-label">Estado del Material</label>
+        <select asp-for="Estado" class="form-select" aria-label="Seleccionar Estado">
+            <option selected>Seleccione una opción</option>
+            <option value="Nuevo">Nuevo</option>
+            <option value="Usado">Usado</option>
+            <option value="Dañado">Dañado</option>
+        </select>
+        <span asp-validation-for="Estado" class="text-danger"></span>
+        <label for="Estado" class="form-label">Estado del Material</label>
+        <input class="Apartados" asp-for="ID_Usuario" type="txt" name="ID_Usuario" id="ID_Usuario" placeholder="UsuarioID">
+    </div>
+
+    <button type="submit" class="btn btn-primary">Guardar</button>
+    <a asp-action="VerMateriales" asp-controller="Mantenedor" class="btn btn-warning">Volver</a>
+</form>

@@ -1,0 +1,40 @@
+﻿
+@{
+    ViewData["Title"] = "Listar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Listar</h1>
+<a asp-action="Guardar" asp-controller="Mantenedor" class="btn btn-success"><i class="bi bi-plus-circle"></i> Crear Nuevo</a>
+<br />
+<table class="table table-bordered">
+    <thead>
+		<tr>
+			<th>ID_Usuario</th>
+			<th>Nombres</th>
+			<th>Apellidos</th>
+			<th>NomTutor</th>
+			<th>Telefono</th>
+			<th>Contraseña</th>
+		</tr>
+    </thead>
+   <tbody>
+		@foreach (var item in Model)
+		{
+			<tr>
+				<td>@item.ID_Usuario</td>
+				<td>@item.Nombres</td>
+				<td>@item.Apellidos</td>
+				<td>@item.NomTutor</td>
+				<td>@item.Telefono</td>
+				<td>@item.Contraseña</td>
+				<td>
+					<a asp-action="Editar" asp-controller="Mantenedor" class="btn btn-primary btn-sm" asp-route-ID_Usuario="@item.ID_Usuario"><i class="bi bi-pencil-fill"></i> Editar</a>
+					<a asp-action="Eliminar" asp-controller="Mantenedor" class="btn btn-danger btn-sm" asp-route-ID_Usuario="@item.ID_Usuario"><i class="bi bi-trash3"></i> Eliminar</a>
+					
+				</td>
+			
+			</tr>
+		}
+	</tbody>
+</table>

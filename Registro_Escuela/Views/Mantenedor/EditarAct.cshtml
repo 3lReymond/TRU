@@ -1,0 +1,36 @@
+﻿@model Actividades
+@{
+    ViewData["Title"] = "EditarAct";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<form asp-action="EditarAct" asp-controller="Mantenedor" method="post">
+
+    <label for="exampleInputEmail1" class="form-label">Trabajo</label>
+    <input asp-for="ID_Actividad" type="hidden" class="form-control" id="ID_Actividad" aria-describedby="emailHelp">
+    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    <label class="form-check-label" for="exampleCheck1">Nombre de la actividad</label>
+    <select asp-for="NombreActividad" class="form-select" aria-label="Default select example">
+        <option selected>Selepcione una opcion</option>
+        <option value="Dibujo">Dibujo</option>
+        <option value="Pintura">Pintura</option>
+        <option value="Saltar la Cuerda">Saltar la Cuerda</option>
+    </select>
+    <input class="Apartados" asp-for="Fecha" type="date" name="Fecha" id="Fecha" placeholder="Fecha">
+    <span asp-validation-for="Fecha" class="text-danger"></span><br />
+    <div>
+        <label class="form-check-label" for="exampleCheck1">Conducta del Estudiantes</label>
+    </div>
+    <select asp-for="Conducta" class="form-select" aria-label="Default select example">
+        <option selected>Selepcione una opcion</option>
+        <option value="Buena">Buena</option>
+        <option value="Malo">Malo</option>
+    </select>
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Identificador</label>
+        <input asp-for="ID_Usuario" type="text" class="form-control" id="ID_Usuario" aria-describedby="emailHelp">
+        <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    </div>
+    <button type="submit" class="btn btn-primary">Guardar</button>
+    <a asp-action="VerActividades" asp-controller="Mantenedor" class="btn btn-warning" >Volver</a>
+</form>

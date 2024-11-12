@@ -1,0 +1,77 @@
+﻿@model Registro
+@{
+    ViewData["Title"] = "Editar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="Casilla-R">
+    <h1>Editar Usuario</h1>
+
+    <form asp-action="Editar" asp-controller="Mantenedor" method="post">
+        <input class="Apartados" asp-for="ID_Usuario" type="hidden" name="ID_Usuario" id="ID_Usuario" placeholder="Identificador">
+        <input class="Apartados" asp-for="Nombres" type="text" name="Nombres" id="Nombre" placeholder="Nombres del estudiante">
+        <span asp-validation-for="Nombres" class="text-danger"></span>
+        <input class="Apartados" asp-for="Apellidos" type="text" name="Apellidos" id="Apellidos" placeholder="Apellidos del estudiante">
+        <span asp-validation-for="Apellidos" class="text-danger"></span>
+        <input class="Apartados" asp-for="NomTutor" type="text" name="NomTutor" id="Nombre-tutor" placeholder="Nombre del Tutor">
+        <span asp-validation-for="NomTutor" class="text-danger"></span>
+        <input class="Apartados" asp-for="Telefono" type="tel" name="Telefono" id="Telefono" placeholder="Telefono">
+        <span asp-validation-for="Telefono" class="text-danger"></span>
+        <input class="Apartados" asp-for="Contraseña" type="password" name="Contraseña" id="Contraseña" placeholder="password">
+        <span asp-validation-for="Contraseña" class="text-danger"></span>
+
+        <input class="Boton" type="submit" value="Registrar">
+        <a asp-action="Listar" asp-controller="Mantenedor" class="btn btn-warning">Volver a la lista</a>
+
+    </form>
+</div>
+
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    .Casilla-R {
+        width: 400px;
+        background: #ffffff;
+        padding: 30px;
+        margin: auto;
+        margin-top: 100px;
+        border-radius: 4px;
+        font-family: 'calibri';
+        color: white;
+        box-shadow: 1px 5px 15px 15px;
+        border: 3px solid green;
+    }
+
+        .Casilla-R h1 {
+            text-align: center;
+            font-size: 40px;
+            margin-bottom: 20px;
+            color: black;
+        }
+
+    .Apartados {
+        width: 100%;
+        background: #ffffff;
+        padding: 10px;
+        border-radius: 4px;
+        margin-bottom: 16px;
+        border: 2px solid green;
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 18px;
+    }
+
+    .Boton {
+        width: 100%;
+        height: 40px;
+        margin: 16px 0;
+        font-size: 16px;
+        background: green;
+        color: white;
+        border: 1px solid rgb(255, 255, 255);
+    }
+
+</style>
+

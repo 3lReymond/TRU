@@ -1,0 +1,73 @@
+﻿@model Registro
+@{
+    ViewData["Title"] = "Eliminar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="Casilla-R">
+    <h1>Eliminar Usuario</h1>
+
+    <form asp-action="Eliminar" asp-controller="Mantenedor" method="post">
+        <input class="Apartados" asp-for="ID_Usuario" type="hidden" name="ID_Usuario" id="ID_Usuario" placeholder="Identificador">
+
+        <div class="alert alert-danger" role="alert">
+          ¿Decea Eliminar al Usuario : @Html.DisplayTextFor(m => m.Nombres)?
+        </div>
+
+        <button type="submit" class="btn btn-danger">Eliminar</button>
+        <a asp-action="Listar" asp-controller="Mantenedor" class="btn btn-warning">Volver a la lista</a>
+
+    </form>
+</div>
+
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    .Casilla-R {
+        width: 400px;
+        background: #ffffff;
+        padding: 30px;
+        margin: auto;
+        margin-top: 100px;
+        border-radius: 4px;
+        font-family: 'calibri';
+        color: white;
+        box-shadow: 1px 5px 15px 15px;
+        border: 3px solid green;
+    }
+
+        .Casilla-R h1 {
+            text-align: center;
+            font-size: 40px;
+            margin-bottom: 20px;
+            color: black;
+        }
+
+    .Apartados {
+        width: 100%;
+        background: #ffffff;
+        padding: 10px;
+        border-radius: 4px;
+        margin-bottom: 16px;
+        border: 2px solid green;
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 18px;
+    }
+
+    .Boton {
+        width: 100%;
+        height: 40px;
+        margin: 16px 0;
+        font-size: 16px;
+        background: green;
+        color: white;
+        border: 1px solid rgb(255, 255, 255);
+    }
+
+</style>
+
+

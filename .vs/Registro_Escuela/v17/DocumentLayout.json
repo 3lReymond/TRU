@@ -1,0 +1,420 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|c:\\users\\ramonbl\\downloads\\proyectotruu1\\proyectotruu\\registro_escuela\\views\\mantenedor\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|solutionrelative:registro_escuela\\views\\mantenedor\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|c:\\users\\ramonbl\\downloads\\proyectotruu1\\proyectotruu\\registro_escuela\\models\\datos\\actividadesdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|solutionrelative:registro_escuela\\models\\datos\\actividadesdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|c:\\users\\ramonbl\\downloads\\proyectotruu1\\proyectotruu\\registro_escuela\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|solutionrelative:registro_escuela\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|c:\\users\\ramonbl\\downloads\\proyectotruu1\\proyectotruu\\registro_escuela\\views\\mantenedor\\filtro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|solutionrelative:registro_escuela\\views\\mantenedor\\filtro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|c:\\users\\ramonbl\\downloads\\proyectotruu1\\proyectotruu\\registro_escuela\\views\\mantenedor\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|solutionrelative:registro_escuela\\views\\mantenedor\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|c:\\users\\ramonbl\\downloads\\proyectotruu1\\proyectotruu\\registro_escuela\\views\\mantenedor\\editarmat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|solutionrelative:registro_escuela\\views\\mantenedor\\editarmat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|c:\\users\\ramonbl\\downloads\\proyectotruu1\\proyectotruu\\registro_escuela\\views\\mantenedor\\editaract.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|solutionrelative:registro_escuela\\views\\mantenedor\\editaract.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|c:\\users\\ramonbl\\downloads\\proyectotruu1\\proyectotruu\\registro_escuela\\models\\actividades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|solutionrelative:registro_escuela\\models\\actividades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|c:\\users\\ramonbl\\downloads\\proyectotruu1\\proyectotruu\\registro_escuela\\models\\datos\\materialesdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|solutionrelative:registro_escuela\\models\\datos\\materialesdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|c:\\users\\ramonbl\\downloads\\proyectotruu1\\proyectotruu\\registro_escuela\\views\\home\\materiales.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|solutionrelative:registro_escuela\\views\\home\\materiales.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|c:\\users\\ramonbl\\downloads\\proyectotruu1\\proyectotruu\\registro_escuela\\views\\acceso\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|solutionrelative:registro_escuela\\views\\acceso\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|c:\\users\\ramonbl\\downloads\\proyectotruu1\\proyectotruu\\registro_escuela\\models\\datos\\registrodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|solutionrelative:registro_escuela\\models\\datos\\registrodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|c:\\users\\ramonbl\\downloads\\proyectotruu1\\proyectotruu\\registro_escuela\\models\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|solutionrelative:registro_escuela\\models\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|c:\\users\\ramonbl\\downloads\\proyectotruu1\\proyectotruu\\registro_escuela\\data\\da_logica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|solutionrelative:registro_escuela\\data\\da_logica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|c:\\users\\ramonbl\\downloads\\proyectotruu1\\proyectotruu\\registro_escuela\\controllers\\mantenedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|solutionrelative:registro_escuela\\controllers\\mantenedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|c:\\users\\ramonbl\\downloads\\proyectotruu1\\proyectotruu\\registro_escuela\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|solutionrelative:registro_escuela\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|c:\\users\\ramonbl\\downloads\\proyectotruu1\\proyectotruu\\registro_escuela\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|solutionrelative:registro_escuela\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|c:\\users\\ramonbl\\downloads\\proyectotruu1\\proyectotruu\\registro_escuela\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|solutionrelative:registro_escuela\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|c:\\users\\ramonbl\\downloads\\proyectotruu1\\proyectotruu\\registro_escuela\\registro_escuela.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|solutionrelative:registro_escuela\\registro_escuela.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|c:\\users\\ramonbl\\downloads\\proyectotruu1\\proyectotruu\\registro_escuela\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|solutionrelative:registro_escuela\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|c:\\users\\ramonbl\\downloads\\proyectotruu1\\proyectotruu\\registro_escuela\\views\\mantenedor\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|solutionrelative:registro_escuela\\views\\mantenedor\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|c:\\users\\ramonbl\\downloads\\proyectotruu1\\proyectotruu\\registro_escuela\\views\\mantenedor\\guardarmat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|solutionrelative:registro_escuela\\views\\mantenedor\\guardarmat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|c:\\users\\ramonbl\\downloads\\proyectotruu1\\proyectotruu\\registro_escuela\\views\\mantenedor\\veractividades.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|solutionrelative:registro_escuela\\views\\mantenedor\\veractividades.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|c:\\users\\ramonbl\\downloads\\proyectotruu1\\proyectotruu\\registro_escuela\\models\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|solutionrelative:registro_escuela\\models\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|c:\\users\\ramonbl\\downloads\\proyectotruu1\\proyectotruu\\registro_escuela\\views\\mantenedor\\vermateriales.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D271985D-8733-4348-8406-2D611CCE7145}|Registro_Escuela\\Registro_Escuela.csproj|solutionrelative:registro_escuela\\views\\mantenedor\\vermateriales.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\Views\\Mantenedor\\Editar.cshtml",
+              "RelativeDocumentMoniker": "Registro_Escuela\\Views\\Mantenedor\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\Views\\Mantenedor\\Editar.cshtml",
+              "RelativeToolTip": "Registro_Escuela\\Views\\Mantenedor\\Editar.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T22:23:26.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditarAct.cshtml",
+              "DocumentMoniker": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\Views\\Mantenedor\\EditarAct.cshtml",
+              "RelativeDocumentMoniker": "Registro_Escuela\\Views\\Mantenedor\\EditarAct.cshtml",
+              "ToolTip": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\Views\\Mantenedor\\EditarAct.cshtml",
+              "RelativeToolTip": "Registro_Escuela\\Views\\Mantenedor\\EditarAct.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T22:32:39.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditarMat.cshtml",
+              "DocumentMoniker": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\Views\\Mantenedor\\EditarMat.cshtml",
+              "RelativeDocumentMoniker": "Registro_Escuela\\Views\\Mantenedor\\EditarMat.cshtml",
+              "ToolTip": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\Views\\Mantenedor\\EditarMat.cshtml",
+              "RelativeToolTip": "Registro_Escuela\\Views\\Mantenedor\\EditarMat.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T22:32:37.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Eliminar.cshtml",
+              "DocumentMoniker": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\Views\\Mantenedor\\Eliminar.cshtml",
+              "RelativeDocumentMoniker": "Registro_Escuela\\Views\\Mantenedor\\Eliminar.cshtml",
+              "ToolTip": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\Views\\Mantenedor\\Eliminar.cshtml",
+              "RelativeToolTip": "Registro_Escuela\\Views\\Mantenedor\\Eliminar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T19:18:36.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Filtro.cshtml",
+              "DocumentMoniker": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\Views\\Mantenedor\\Filtro.cshtml",
+              "RelativeDocumentMoniker": "Registro_Escuela\\Views\\Mantenedor\\Filtro.cshtml",
+              "ToolTip": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\Views\\Mantenedor\\Filtro.cshtml",
+              "RelativeToolTip": "Registro_Escuela\\Views\\Mantenedor\\Filtro.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T00:03:52.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\Program.cs",
+              "RelativeDocumentMoniker": "Registro_Escuela\\Program.cs",
+              "ToolTip": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\Program.cs",
+              "RelativeToolTip": "Registro_Escuela\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T23:51:18.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Actividades.cs",
+              "DocumentMoniker": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\Models\\Actividades.cs",
+              "RelativeDocumentMoniker": "Registro_Escuela\\Models\\Actividades.cs",
+              "ToolTip": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\Models\\Actividades.cs",
+              "RelativeToolTip": "Registro_Escuela\\Models\\Actividades.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:57:01.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ActividadesDatos.cs",
+              "DocumentMoniker": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\Models\\Datos\\ActividadesDatos.cs",
+              "RelativeDocumentMoniker": "Registro_Escuela\\Models\\Datos\\ActividadesDatos.cs",
+              "ToolTip": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\Models\\Datos\\ActividadesDatos.cs",
+              "RelativeToolTip": "Registro_Escuela\\Models\\Datos\\ActividadesDatos.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwB0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T15:18:03.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Materiales.cshtml",
+              "DocumentMoniker": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\Views\\Home\\Materiales.cshtml",
+              "RelativeDocumentMoniker": "Registro_Escuela\\Views\\Home\\Materiales.cshtml",
+              "ToolTip": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\Views\\Home\\Materiales.cshtml",
+              "RelativeToolTip": "Registro_Escuela\\Views\\Home\\Materiales.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T16:15:36.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MaterialesDatos.cs",
+              "DocumentMoniker": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\Models\\Datos\\MaterialesDatos.cs",
+              "RelativeDocumentMoniker": "Registro_Escuela\\Models\\Datos\\MaterialesDatos.cs",
+              "ToolTip": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\Models\\Datos\\MaterialesDatos.cs",
+              "RelativeToolTip": "Registro_Escuela\\Models\\Datos\\MaterialesDatos.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAgwBwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T21:50:13.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\Views\\Acceso\\Index.cshtml",
+              "RelativeDocumentMoniker": "Registro_Escuela\\Views\\Acceso\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\Views\\Acceso\\Index.cshtml",
+              "RelativeToolTip": "Registro_Escuela\\Views\\Acceso\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwB4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T17:12:04.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegistroDatos.cs",
+              "DocumentMoniker": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\Models\\Datos\\RegistroDatos.cs",
+              "RelativeDocumentMoniker": "Registro_Escuela\\Models\\Datos\\RegistroDatos.cs",
+              "ToolTip": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\Models\\Datos\\RegistroDatos.cs",
+              "RelativeToolTip": "Registro_Escuela\\Models\\Datos\\RegistroDatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T23:55:37.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\Models\\Datos\\Conexion.cs",
+              "RelativeDocumentMoniker": "Registro_Escuela\\Models\\Datos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\Models\\Datos\\Conexion.cs",
+              "RelativeToolTip": "Registro_Escuela\\Models\\Datos\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:02:22.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DA_logica.cs",
+              "DocumentMoniker": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\Data\\DA_logica.cs",
+              "RelativeDocumentMoniker": "Registro_Escuela\\Data\\DA_logica.cs",
+              "ToolTip": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\Data\\DA_logica.cs",
+              "RelativeToolTip": "Registro_Escuela\\Data\\DA_logica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T15:13:20.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MantenedorController.cs",
+              "DocumentMoniker": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\Controllers\\MantenedorController.cs",
+              "RelativeDocumentMoniker": "Registro_Escuela\\Controllers\\MantenedorController.cs",
+              "ToolTip": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\Controllers\\MantenedorController.cs",
+              "RelativeToolTip": "Registro_Escuela\\Controllers\\MantenedorController.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T00:12:38.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AccesoController.cs",
+              "DocumentMoniker": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\Controllers\\AccesoController.cs",
+              "RelativeDocumentMoniker": "Registro_Escuela\\Controllers\\AccesoController.cs",
+              "ToolTip": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\Controllers\\AccesoController.cs",
+              "RelativeToolTip": "Registro_Escuela\\Controllers\\AccesoController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAuwAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T18:51:44.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Registro_Escuela\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Registro_Escuela\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-05T16:28:35.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Registro_Escuela\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Registro_Escuela\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAgAAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-05T16:27:57.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Registro_Escuela",
+              "DocumentMoniker": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\Registro_Escuela.csproj",
+              "RelativeDocumentMoniker": "Registro_Escuela\\Registro_Escuela.csproj",
+              "ToolTip": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\Registro_Escuela.csproj",
+              "RelativeToolTip": "Registro_Escuela\\Registro_Escuela.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-05T16:27:45.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\appsettings.json",
+              "RelativeDocumentMoniker": "Registro_Escuela\\appsettings.json",
+              "ToolTip": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\appsettings.json",
+              "RelativeToolTip": "Registro_Escuela\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-21T15:11:09.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Listar.cshtml",
+              "DocumentMoniker": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\Views\\Mantenedor\\Listar.cshtml",
+              "RelativeDocumentMoniker": "Registro_Escuela\\Views\\Mantenedor\\Listar.cshtml",
+              "ToolTip": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\Views\\Mantenedor\\Listar.cshtml",
+              "RelativeToolTip": "Registro_Escuela\\Views\\Mantenedor\\Listar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T15:23:28.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GuardarMat.cshtml",
+              "DocumentMoniker": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\Views\\Mantenedor\\GuardarMat.cshtml",
+              "RelativeDocumentMoniker": "Registro_Escuela\\Views\\Mantenedor\\GuardarMat.cshtml",
+              "ToolTip": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\Views\\Mantenedor\\GuardarMat.cshtml",
+              "RelativeToolTip": "Registro_Escuela\\Views\\Mantenedor\\GuardarMat.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T16:15:49.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "VerActividades.cshtml",
+              "DocumentMoniker": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\Views\\Mantenedor\\VerActividades.cshtml",
+              "RelativeDocumentMoniker": "Registro_Escuela\\Views\\Mantenedor\\VerActividades.cshtml",
+              "ToolTip": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\Views\\Mantenedor\\VerActividades.cshtml",
+              "RelativeToolTip": "Registro_Escuela\\Views\\Mantenedor\\VerActividades.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T16:15:47.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Registro.cs",
+              "DocumentMoniker": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\Models\\Registro.cs",
+              "RelativeDocumentMoniker": "Registro_Escuela\\Models\\Registro.cs",
+              "ToolTip": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\Models\\Registro.cs",
+              "RelativeToolTip": "Registro_Escuela\\Models\\Registro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:51:17.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "VerMateriales.cshtml",
+              "DocumentMoniker": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\Views\\Mantenedor\\VerMateriales.cshtml",
+              "RelativeDocumentMoniker": "Registro_Escuela\\Views\\Mantenedor\\VerMateriales.cshtml",
+              "ToolTip": "C:\\Users\\ramonbl\\Downloads\\ProyectoTRUU1\\ProyectoTRUU\\Registro_Escuela\\Views\\Mantenedor\\VerMateriales.cshtml",
+              "RelativeToolTip": "Registro_Escuela\\Views\\Mantenedor\\VerMateriales.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T15:40:01.17Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
